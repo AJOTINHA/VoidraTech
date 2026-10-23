@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": "voidratech:nebulite_crystal_block",
+    "L": "voidratech:clear_lens"
+  },
+  "pattern": [
+    "N N",
+    "NLN",
+    "N N"
+  ],
+  "result": {
+    "id": "voidratech:magenta_lens"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/lithium",
+  "weight": 15,
+  "min_tier": 2,
+  "lens": "white",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

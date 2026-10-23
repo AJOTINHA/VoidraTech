@@ -1,0 +1,9 @@
+{
+  "item": "minecraft:nether_quartz_ore",
+  "weight": 60,
+  "min_tier": 1,
+  "lens": "white",
+  "dimensions": [
+    "minecraft:the_nether"
+  ]
+}

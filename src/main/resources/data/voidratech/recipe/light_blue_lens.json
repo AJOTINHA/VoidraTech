@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "voidratech:clear_lens",
+    "minecraft:light_blue_dye"
+  ],
+  "result": {
+    "id": "voidratech:light_blue_lens"
+  }
+}

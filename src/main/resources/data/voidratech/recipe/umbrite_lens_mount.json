@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "U": "voidratech:umbrite_crystal",
+    "O": "minecraft:obsidian"
+  },
+  "pattern": [
+    "IUI",
+    "U U",
+    "OOO"
+  ],
+  "result": {
+    "id": "voidratech:umbrite_lens_mount"
+  }
+}

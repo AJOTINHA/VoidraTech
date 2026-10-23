@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/sulfur",
+  "weight": 25,
+  "min_tier": 1,
+  "lens": "yellow",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/graphite",
+  "weight": 25,
+  "min_tier": 1,
+  "lens": "black",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

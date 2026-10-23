@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "F": "voidratech:umbrite_frame",
+    "C": "voidratech:nebulite_crystal"
+  },
+  "pattern": [
+    "FFF",
+    "FCF",
+    "FFF"
+  ],
+  "result": {
+    "id": "voidratech:nebulite_frame",
+    "count": 8
+  }
+}

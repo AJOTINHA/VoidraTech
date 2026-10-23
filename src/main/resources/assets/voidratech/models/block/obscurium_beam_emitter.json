@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "voidratech:block/obscurium_beam_emitter_end",
+    "side": "voidratech:block/obscurium_beam_emitter_side"
+  }
+}

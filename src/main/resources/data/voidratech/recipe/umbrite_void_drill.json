@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "U": "voidratech:umbrite_crystal",
+    "D": "minecraft:diamond_block",
+    "E": "voidratech:umbrite_beam_emitter",
+    "O": "minecraft:obsidian"
+  },
+  "pattern": [
+    "UDU",
+    "UEU",
+    "UOU"
+  ],
+  "result": {
+    "id": "voidratech:umbrite_void_drill"
+  }
+}

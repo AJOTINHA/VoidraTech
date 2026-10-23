@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "voidratech:voidrium_crystal_block"
+  ],
+  "result": {
+    "id": "voidratech:voidrium_crystal",
+    "count": 9
+  }
+}

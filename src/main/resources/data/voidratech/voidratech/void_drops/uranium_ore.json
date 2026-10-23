@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/uranium",
+  "weight": 15,
+  "min_tier": 3,
+  "lens": "green",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

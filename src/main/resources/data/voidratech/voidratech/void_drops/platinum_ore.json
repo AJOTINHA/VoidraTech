@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/platinum",
+  "weight": 10,
+  "min_tier": 4,
+  "lens": "light_blue",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

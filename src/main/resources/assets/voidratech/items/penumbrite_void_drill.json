@@ -1,0 +1,15 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "voidratech:block/penumbrite_void_drill"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "voidratech:block/penumbrite_void_drill_rotor"
+      }
+    ]
+  }
+}

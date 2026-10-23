@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "voidratech:block/nebulite_lens_mount_top",
+    "side": "voidratech:block/nebulite_lens_mount_side",
+    "bottom": "voidratech:block/nebulite_lens_mount_bottom"
+  }
+}

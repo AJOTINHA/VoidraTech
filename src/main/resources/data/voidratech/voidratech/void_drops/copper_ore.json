@@ -1,0 +1,9 @@
+{
+  "item": "minecraft:copper_ore",
+  "weight": 90,
+  "min_tier": 1,
+  "lens": "orange",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

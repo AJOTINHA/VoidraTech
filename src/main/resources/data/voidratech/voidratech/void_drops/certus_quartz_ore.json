@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/certus_quartz",
+  "weight": 20,
+  "min_tier": 2,
+  "lens": "light_blue",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

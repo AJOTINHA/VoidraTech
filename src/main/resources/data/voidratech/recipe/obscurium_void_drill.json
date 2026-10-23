@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "C": "voidratech:obscurium_crystal",
+    "D": "minecraft:diamond_block",
+    "V": "voidratech:nebulite_void_drill",
+    "E": "voidratech:obscurium_beam_emitter"
+  },
+  "pattern": [
+    "CDC",
+    "CVC",
+    "CEC"
+  ],
+  "result": {
+    "id": "voidratech:obscurium_void_drill"
+  }
+}

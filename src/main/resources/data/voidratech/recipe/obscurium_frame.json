@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "F": "voidratech:nebulite_frame",
+    "C": "voidratech:obscurium_crystal"
+  },
+  "pattern": [
+    "FFF",
+    "FCF",
+    "FFF"
+  ],
+  "result": {
+    "id": "voidratech:obscurium_frame",
+    "count": 8
+  }
+}

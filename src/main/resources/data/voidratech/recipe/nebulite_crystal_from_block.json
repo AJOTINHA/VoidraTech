@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "voidratech:nebulite_crystal_block"
+  ],
+  "result": {
+    "id": "voidratech:nebulite_crystal",
+    "count": 9
+  }
+}

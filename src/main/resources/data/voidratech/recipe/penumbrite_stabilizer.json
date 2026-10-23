@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "S": "voidratech:obscurium_stabilizer",
+    "C": "voidratech:penumbrite_crystal"
+  },
+  "pattern": [
+    "SSS",
+    "SCS",
+    "SSS"
+  ],
+  "result": {
+    "id": "voidratech:penumbrite_stabilizer",
+    "count": 8
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "item": "minecraft:redstone_ore",
+  "weight": 50,
+  "min_tier": 1,
+  "lens": "red",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

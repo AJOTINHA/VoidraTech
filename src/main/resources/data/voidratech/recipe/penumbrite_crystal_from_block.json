@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "voidratech:penumbrite_crystal_block"
+  ],
+  "result": {
+    "id": "voidratech:penumbrite_crystal",
+    "count": 9
+  }
+}

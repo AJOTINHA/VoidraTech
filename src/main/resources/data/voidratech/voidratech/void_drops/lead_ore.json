@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/lead",
+  "weight": 30,
+  "min_tier": 1,
+  "lens": "purple",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": "minecraft:redstone_block",
+    "N": "voidratech:nebulite_crystal",
+    "U": "voidratech:umbrite_crystal",
+    "M": "voidratech:null_modifier"
+  },
+  "pattern": [
+    "RNR",
+    "UMU",
+    "RNR"
+  ],
+  "result": {
+    "id": "voidratech:speed_modifier"
+  }
+}

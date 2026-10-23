@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "M": "voidratech:umbrite_lens_mount",
+    "C": "voidratech:nebulite_crystal",
+    "D": "minecraft:diamond",
+    "O": "minecraft:obsidian",
+    "B": "voidratech:nebulite_crystal_block"
+  },
+  "pattern": [
+    "CDC",
+    "OMO",
+    "CBC"
+  ],
+  "result": {
+    "id": "voidratech:nebulite_lens_mount"
+  }
+}

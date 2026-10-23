@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "S": "voidratech:nebulite_stabilizer",
+    "C": "voidratech:obscurium_crystal"
+  },
+  "pattern": [
+    "SSS",
+    "SCS",
+    "SSS"
+  ],
+  "result": {
+    "id": "voidratech:obscurium_stabilizer",
+    "count": 8
+  }
+}

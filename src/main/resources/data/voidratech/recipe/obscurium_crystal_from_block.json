@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "voidratech:obscurium_crystal_block"
+  ],
+  "result": {
+    "id": "voidratech:obscurium_crystal",
+    "count": 9
+  }
+}

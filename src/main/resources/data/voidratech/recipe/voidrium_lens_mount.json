@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "M": "voidratech:eclipsium_lens_mount",
+    "C": "voidratech:voidrium_crystal",
+    "D": "minecraft:diamond",
+    "O": "minecraft:obsidian",
+    "B": "voidratech:voidrium_crystal_block"
+  },
+  "pattern": [
+    "CDC",
+    "OMO",
+    "CBC"
+  ],
+  "result": {
+    "id": "voidratech:voidrium_lens_mount"
+  }
+}

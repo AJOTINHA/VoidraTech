@@ -1,0 +1,9 @@
+{
+  "item": "minecraft:diamond_ore",
+  "weight": 20,
+  "min_tier": 2,
+  "lens": "cyan",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

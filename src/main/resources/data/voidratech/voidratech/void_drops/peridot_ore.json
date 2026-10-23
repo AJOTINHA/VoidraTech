@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/peridot",
+  "weight": 15,
+  "min_tier": 2,
+  "lens": "green",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

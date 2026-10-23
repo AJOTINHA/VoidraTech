@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/black_quartz",
+  "weight": 20,
+  "min_tier": 1,
+  "lens": "black",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

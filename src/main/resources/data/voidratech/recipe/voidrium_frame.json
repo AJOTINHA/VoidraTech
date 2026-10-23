@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "F": "voidratech:eclipsium_frame",
+    "C": "voidratech:voidrium_crystal"
+  },
+  "pattern": [
+    "FFF",
+    "FCF",
+    "FFF"
+  ],
+  "result": {
+    "id": "voidratech:voidrium_frame",
+    "count": 8
+  }
+}

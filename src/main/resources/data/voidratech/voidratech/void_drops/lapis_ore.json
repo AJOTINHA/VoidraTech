@@ -1,0 +1,9 @@
+{
+  "item": "minecraft:lapis_ore",
+  "weight": 40,
+  "min_tier": 1,
+  "lens": "blue",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

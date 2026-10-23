@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "S": "voidratech:eclipsium_stabilizer",
+    "C": "voidratech:voidrium_crystal"
+  },
+  "pattern": [
+    "SSS",
+    "SCS",
+    "SSS"
+  ],
+  "result": {
+    "id": "voidratech:voidrium_stabilizer",
+    "count": 8
+  }
+}

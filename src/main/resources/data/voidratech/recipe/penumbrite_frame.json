@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "F": "voidratech:obscurium_frame",
+    "C": "voidratech:penumbrite_crystal"
+  },
+  "pattern": [
+    "FFF",
+    "FCF",
+    "FFF"
+  ],
+  "result": {
+    "id": "voidratech:penumbrite_frame",
+    "count": 8
+  }
+}

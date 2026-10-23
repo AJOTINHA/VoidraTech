@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/osmium",
+  "weight": 35,
+  "min_tier": 2,
+  "lens": "light_blue",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

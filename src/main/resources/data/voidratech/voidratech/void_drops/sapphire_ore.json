@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/sapphire",
+  "weight": 15,
+  "min_tier": 2,
+  "lens": "blue",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

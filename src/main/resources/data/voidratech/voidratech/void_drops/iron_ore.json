@@ -1,0 +1,9 @@
+{
+  "item": "minecraft:iron_ore",
+  "weight": 80,
+  "min_tier": 1,
+  "lens": "white",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

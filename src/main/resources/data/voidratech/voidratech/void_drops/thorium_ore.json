@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/thorium",
+  "weight": 10,
+  "min_tier": 3,
+  "lens": "black",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

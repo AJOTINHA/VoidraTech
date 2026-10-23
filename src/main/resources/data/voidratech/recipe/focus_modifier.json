@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": "minecraft:lapis_block",
+    "N": "voidratech:nebulite_crystal",
+    "U": "voidratech:umbrite_crystal",
+    "M": "voidratech:null_modifier"
+  },
+  "pattern": [
+    "LNL",
+    "UMU",
+    "LNL"
+  ],
+  "result": {
+    "id": "voidratech:focus_modifier"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/yellorite",
+  "weight": 15,
+  "min_tier": 2,
+  "lens": "yellow",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

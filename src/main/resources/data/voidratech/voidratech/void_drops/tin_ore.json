@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/tin",
+  "weight": 40,
+  "min_tier": 1,
+  "lens": "gray",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

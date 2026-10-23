@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/boron",
+  "weight": 15,
+  "min_tier": 2,
+  "lens": "light_gray",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

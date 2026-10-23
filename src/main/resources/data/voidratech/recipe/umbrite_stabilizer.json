@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "Q": "minecraft:quartz",
+    "U": "voidratech:umbrite_crystal"
+  },
+  "pattern": [
+    "IQI",
+    "QUQ",
+    "IQI"
+  ],
+  "result": {
+    "id": "voidratech:umbrite_stabilizer",
+    "count": 4
+  }
+}

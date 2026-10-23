@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/tungsten",
+  "weight": 12,
+  "min_tier": 3,
+  "lens": "black",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/silver",
+  "weight": 25,
+  "min_tier": 2,
+  "lens": "light_gray",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

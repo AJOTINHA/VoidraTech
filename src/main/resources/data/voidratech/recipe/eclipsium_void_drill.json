@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "C": "voidratech:eclipsium_crystal",
+    "D": "minecraft:diamond_block",
+    "V": "voidratech:penumbrite_void_drill",
+    "E": "voidratech:eclipsium_beam_emitter"
+  },
+  "pattern": [
+    "CDC",
+    "CVC",
+    "CEC"
+  ],
+  "result": {
+    "id": "voidratech:eclipsium_void_drill"
+  }
+}

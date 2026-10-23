@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/ruby",
+  "weight": 15,
+  "min_tier": 2,
+  "lens": "red",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

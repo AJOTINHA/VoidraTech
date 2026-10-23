@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/saltpeter",
+  "weight": 20,
+  "min_tier": 1,
+  "lens": "white",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

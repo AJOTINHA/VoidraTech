@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "F": "voidratech:penumbrite_frame",
+    "C": "voidratech:eclipsium_crystal"
+  },
+  "pattern": [
+    "FFF",
+    "FCF",
+    "FFF"
+  ],
+  "result": {
+    "id": "voidratech:eclipsium_frame",
+    "count": 8
+  }
+}

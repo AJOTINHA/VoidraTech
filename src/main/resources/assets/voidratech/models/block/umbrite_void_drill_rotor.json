@@ -1,0 +1,11 @@
+{
+  "parent": "voidratech:block/void_drill_rotor",
+  "textures": {
+    "metal": "voidratech:block/umbrite_void_drill_metal",
+    "eye": "voidratech:block/umbrite_void_drill_eye",
+    "strip": "voidratech:block/umbrite_void_drill_strip",
+    "ribbed": "voidratech:block/umbrite_void_drill_ribbed",
+    "core": "voidratech:block/umbrite_void_drill_core",
+    "coil": "voidratech:block/umbrite_void_drill_coil"
+  }
+}

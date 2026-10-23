@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/apatite",
+  "weight": 25,
+  "min_tier": 1,
+  "lens": "light_blue",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

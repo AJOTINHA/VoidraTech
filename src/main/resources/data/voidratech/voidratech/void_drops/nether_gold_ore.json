@@ -1,0 +1,9 @@
+{
+  "item": "minecraft:nether_gold_ore",
+  "weight": 40,
+  "min_tier": 1,
+  "lens": "yellow",
+  "dimensions": [
+    "minecraft:the_nether"
+  ]
+}

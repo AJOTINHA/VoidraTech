@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/titanium",
+  "weight": 12,
+  "min_tier": 3,
+  "lens": "white",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

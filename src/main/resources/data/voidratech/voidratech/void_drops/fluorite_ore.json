@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/fluorite",
+  "weight": 25,
+  "min_tier": 1,
+  "lens": "pink",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": "minecraft:glowstone",
+    "N": "voidratech:nebulite_crystal",
+    "U": "voidratech:umbrite_crystal",
+    "M": "voidratech:null_modifier"
+  },
+  "pattern": [
+    "GNG",
+    "UMU",
+    "GNG"
+  ],
+  "result": {
+    "id": "voidratech:energy_modifier"
+  }
+}

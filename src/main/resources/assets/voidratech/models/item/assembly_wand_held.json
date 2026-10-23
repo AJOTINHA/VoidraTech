@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "voidratech:item/assembly_wand_held"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": {
+      "sprite": "voidratech:block/clear_lens",
+      "force_translucent": true
+    }
+  }
+}

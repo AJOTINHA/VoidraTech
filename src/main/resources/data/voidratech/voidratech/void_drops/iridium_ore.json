@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/iridium",
+  "weight": 5,
+  "min_tier": 5,
+  "lens": "white",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

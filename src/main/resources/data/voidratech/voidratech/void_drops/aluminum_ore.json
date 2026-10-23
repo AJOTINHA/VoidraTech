@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/aluminum",
+  "weight": 35,
+  "min_tier": 1,
+  "lens": "white",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

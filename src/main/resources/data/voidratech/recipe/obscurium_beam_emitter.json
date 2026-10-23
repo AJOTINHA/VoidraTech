@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "E": "voidratech:nebulite_beam_emitter",
+    "C": "voidratech:obscurium_crystal",
+    "R": "minecraft:redstone_block",
+    "G": "minecraft:glass"
+  },
+  "pattern": [
+    "CRC",
+    "GEG",
+    "CRC"
+  ],
+  "result": {
+    "id": "voidratech:obscurium_beam_emitter"
+  }
+}

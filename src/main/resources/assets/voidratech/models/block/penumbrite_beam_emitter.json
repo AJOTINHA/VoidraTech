@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "voidratech:block/penumbrite_beam_emitter_end",
+    "side": "voidratech:block/penumbrite_beam_emitter_side"
+  }
+}

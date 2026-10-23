@@ -1,0 +1,9 @@
+{
+  "item": "minecraft:coal_ore",
+  "weight": 100,
+  "min_tier": 1,
+  "lens": "black",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

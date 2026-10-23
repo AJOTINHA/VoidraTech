@@ -1,0 +1,9 @@
+{
+  "tag": "c:ores/cinnabar",
+  "weight": 20,
+  "min_tier": 1,
+  "lens": "brown",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

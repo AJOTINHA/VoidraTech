@@ -1,0 +1,11 @@
+{
+  "parent": "voidratech:block/void_drill",
+  "textures": {
+    "metal": "voidratech:block/nebulite_void_drill_metal",
+    "eye": "voidratech:block/nebulite_void_drill_eye",
+    "strip": "voidratech:block/nebulite_void_drill_strip",
+    "ribbed": "voidratech:block/nebulite_void_drill_ribbed",
+    "core": "voidratech:block/nebulite_void_drill_core",
+    "coil": "voidratech:block/nebulite_void_drill_coil"
+  }
+}

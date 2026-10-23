@@ -1,0 +1,11 @@
+{
+  "parent": "voidratech:block/void_drill",
+  "textures": {
+    "metal": "voidratech:block/eclipsium_void_drill_metal",
+    "eye": "voidratech:block/eclipsium_void_drill_eye",
+    "strip": "voidratech:block/eclipsium_void_drill_strip",
+    "ribbed": "voidratech:block/eclipsium_void_drill_ribbed",
+    "core": "voidratech:block/eclipsium_void_drill_core",
+    "coil": "voidratech:block/eclipsium_void_drill_coil"
+  }
+}

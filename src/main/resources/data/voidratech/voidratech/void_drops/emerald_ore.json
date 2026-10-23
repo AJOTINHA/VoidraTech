@@ -1,0 +1,9 @@
+{
+  "item": "minecraft:emerald_ore",
+  "weight": 15,
+  "min_tier": 2,
+  "lens": "lime",
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

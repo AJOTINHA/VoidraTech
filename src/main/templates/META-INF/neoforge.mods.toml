@@ -1,0 +1,30 @@
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+# The logo, at the jar root: the square icon beside the name in the mod list and the banner on the mod's page.
+# Smooth scaling, since it is a large painted image shown small.
+iconFile="voidratech_logo.png"
+iconBlur=true
+bannerFile="voidratech_logo.png"
+authors="AJG"
+description='''
+Multiblock machines that drill a laser into the void to pull ores out of it.
+Built for NeoForge with no library dependencies.
+'''
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"

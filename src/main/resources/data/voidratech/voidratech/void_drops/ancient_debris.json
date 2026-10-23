@@ -1,0 +1,9 @@
+{
+  "item": "minecraft:ancient_debris",
+  "weight": 5,
+  "min_tier": 4,
+  "lens": "brown",
+  "dimensions": [
+    "minecraft:the_nether"
+  ]
+}

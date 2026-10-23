@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "voidratech:umbrite_crystal_block"
+  ],
+  "result": {
+    "id": "voidratech:umbrite_crystal",
+    "count": 9
+  }
+}

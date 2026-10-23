@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "C": "voidratech:penumbrite_crystal",
+    "D": "minecraft:diamond_block",
+    "V": "voidratech:obscurium_void_drill",
+    "E": "voidratech:penumbrite_beam_emitter"
+  },
+  "pattern": [
+    "CDC",
+    "CVC",
+    "CEC"
+  ],
+  "result": {
+    "id": "voidratech:penumbrite_void_drill"
+  }
+}
